@@ -7,4 +7,4 @@ Simple script that runs postman/newman collections in parallel
 - npm/yarn install
 - npm/yarn start
 
-Results will show as output in console (newman style)
+See collection results as output in console (newman style)
